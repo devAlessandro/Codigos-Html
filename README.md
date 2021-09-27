@@ -14,7 +14,7 @@ Tela de Login
 <body>
     <div class="container">
 
-        <!-- ****** TELA DE LOGIN ****** -->
+  
 
         <header>
             <img src="./assets/img/logo.png" alt="">
@@ -26,7 +26,7 @@ Tela de Login
 
         <div class="formulario">
 
-            <!-- ver se é para colocar aqui o endereço para redirecionamento -->
+            
             <form action="" class="login-form cadastro-form">
                 <label for="email">EMAIL</label><br>
                 <input type="email" name="email" placeholder="fulanodetal@gmail.com" required><br>
